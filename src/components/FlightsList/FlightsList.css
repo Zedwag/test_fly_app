@@ -1,0 +1,5 @@
+.flights-list {
+    height: 60%;
+    overflow: scroll;
+    list-style: none;
+}

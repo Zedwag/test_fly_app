@@ -1,0 +1,32 @@
+.flights-page {
+    height: 100vh;
+    width: 100%;
+    background: #F3F4F5;
+    color: #424242;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logout-wrapper {
+    position: absolute;
+    top: 1.625rem;
+    right: 2rem;
+    padding-left: 1.25rem;
+    font-size: 20px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #1157A7;
+    display: flex;
+    justify-content: center;
+}
+
+.logout-button {
+    margin-left: 1.25rem;
+    transition: all 0.5s;
+}
+
+.logout-button:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}

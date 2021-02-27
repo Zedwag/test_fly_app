@@ -1,7 +1,0 @@
-export const LOG_IN = 'LOG_IN'
-export const LOG_OUT = 'LOG_OUT'
-export const SET_DATE = 'SET_DATE'
-export const REQUEST_FLIGHTS = 'REQUEST_FLIGHTS'
-export const SET_FLIGHTS = 'SET_FLIGHTS'
-export const ADD_LIKE = 'ADD_LIKE'
-export const REMOVE_LIKE = 'REMOVE_LIKE'
